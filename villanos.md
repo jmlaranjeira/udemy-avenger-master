@@ -2,4 +2,3 @@
 
 * Dr. Doom
 * Respool
-* Capitán America
